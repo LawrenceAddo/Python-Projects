@@ -1,0 +1,4 @@
+/ new python project
+
+x = Hello world
+print(x)
